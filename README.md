@@ -32,7 +32,7 @@ This repository contains various implementations of **Face Clustering**, leverag
 ## 🛠️ Setup & Installation  
 ### **1️⃣ Clone the Repository**  
 ```sh
-git clone https://github.com/yourusername/FaceClustering-DeepLearning.git
+git clone https://github.com/ajmalsr/FaceClustering-DeepLearning.git
 cd FaceClustering-DeepLearning
 ```
 
